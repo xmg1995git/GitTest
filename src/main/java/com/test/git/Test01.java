@@ -20,5 +20,8 @@ public class Test01 {
         System.out.println("master commit");
         System.out.println("master commit");
 
+
+        System.out.println("master commit once again");
+
     }
 }
