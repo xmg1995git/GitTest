@@ -9,5 +9,16 @@ public class Test01 {
         System.out.println("Test......");
         System.out.println("Test......");
         System.out.println("Test......");
+
+
+        System.out.println("test not commit!");
+        System.out.println("test not commit!!");
+        System.out.println("test not commit!!!");
+
+
+        System.out.println("master commit");
+        System.out.println("master commit");
+        System.out.println("master commit");
+
     }
 }
